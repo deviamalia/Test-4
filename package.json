@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "cypress-xpath": "^1.6.2"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "react-scripts": "^4.0.3",
+    "yarn": "^1.22.17"
+  },
+  "start": "webpack-dev-server --mode development"
+}
