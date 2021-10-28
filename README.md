@@ -13,4 +13,4 @@ Challenge Test by Paper.id
 - Clone this repository 
 - Open the Folder 
 - Open terminal and run command : `$ npm downloaded_folder/cypress open` or `$ yarn cypress open`
-- Select CreateInvoce and the process will be run 
+- Select CreateInvoce.js and the process will be run 
